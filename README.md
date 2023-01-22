@@ -2,7 +2,7 @@
 
 >clean code , easy to read , abstraction
 
-##dependency
+## dependency
 
 ```xml
 <dependencies>
